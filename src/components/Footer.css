@@ -1,0 +1,62 @@
+.rec1 {
+    background-color: #3a8d9d;
+    color: white;
+    padding: 40px 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sec-left img {
+    width: 150px;
+}
+
+.sec-left p {
+    margin: 10px 0;
+}
+
+.social-icons i {
+    margin-right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.f-section {
+    min-width: 150px;
+    margin-bottom: 20px;
+}
+
+.f-section h4 {
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.f-section a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+.newsletter {
+    display: flex;
+    gap: 10px;
+    margin-top: 70px;
+}
+
+.newsletter input {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.newsletter button {
+    background-color: #2b5b65;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
